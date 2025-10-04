@@ -1,5 +1,12 @@
 {
     "files.associations": {
-        "VAC2.C": "cpp"
+        "VAC2.C": "cpp",
+        "VAC6.C": "cpp",
+        "VAC7.C": "cpp",
+        "VAC8.C": "cpp",
+        "VAC10.C": "cpp",
+        "random": "cpp",
+        "VAC11.C": "cpp",
+        "VAC12.C": "cpp"
     }
 }
